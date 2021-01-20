@@ -1,0 +1,12 @@
+Origin: Encyclopedia's Repo (Random Crap)
+Label: Encyclopedia's Repo (Random Crap)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Hosting Random Stuff that Isnt Availible ANY WHERE ELSE
+
+SHA256:
+ 1439151b90d4b68f0d82c3d8593af03ccc7dfd81b658049e1bd9ad0600630c2a 1404 Packages.bz2
+ d61ca4a1792d23d314aee017f94a9537ead9f5390aefeeb76aaca28fe4bc1ba8 1320 Packages.xz
